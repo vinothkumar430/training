@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    background: #EFEFEF;
+    background: #FFFFFF;
     font-family: sans-serif !important; /*override font from perl.css stylesheet, until we can get rid of it*/
 }
 
